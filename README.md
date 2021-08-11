@@ -5,11 +5,14 @@ I'm Pablo from Argentina, and I do content on Design and Development. I really e
 * ⚛ React + 📱 React Native + ▲ NextJS
 * 🏎 Node / Express || 🐘 PHP / Laravel
 * 🔋 mySQL, MongoDB
+* 🕷 Python / Django + BeautifulSoup
 * 💻 HTML, CSS, JS
 * Also Vue, Ionic :S, GraphQL, SOAP
 
-- 🔭 I’m currently working on TVFuego as a Full Stack Dev.
-- 🌱 I’m currently learning Project Managment and Algorithmic Thinking 
+- 🔭 I’m currently working at Aerolab.co as a Full Stack Deveveloper
+- 🌱 I’m also learning about the Space and Rocket Ships! An awesome side project is coming!
+- 🔙 Flamboyant Paradise, Orchid Films, TVFuego, BitFilms, Encuadre, Ponup
+- ⛪️ I believe in God, above all the things, he guide my way and makes me so happy and grateful
 - ⚡ Fun fact: 🖼 I love to sketch and make illustrations like these [pablolizardo.com/illustrations](http://www.pablolizardo.com/illustrations)
 
 <!--
