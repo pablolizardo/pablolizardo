@@ -1,5 +1,5 @@
 # Pablo Sebastian Lizardo
-I'm Pablo from Argentina, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in Laravel. I also enjoy wireframing, ui, ux, and design in general. 
+Hi 🙋 I'm Pablo from Tierra del Fuego, Argentina, and love to do everytihng related with technology and web development! Also, as a Graphic Designer, I really enjoy to draw, sketch and do content in 3d, like games or movies! (in fact I've worked in a few! B-) ) 
 
 ## Skills and Experience
 * ⚛ React + 📱 React Native + ▲ NextJS
