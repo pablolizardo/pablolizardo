@@ -1,4 +1,11 @@
 # Pablo Sebastian Lizardo
+
+- Dev at @globant 
+- My stuff in [pablolizardo.ar](https://pablolizardo.ar) and [casaa.com.ar](https://casaa.com.ar)
+- Owner of [creemos.com.ar](https://creemos.com.ar) & [starbase.ar](https://starbase.ar) & [mitdf.com.ar](https://mitdf.com.ar)
+
+ 
+
 Hi 🙋 I'm Pablo from Tierra del Fuego, Argentina, and love to do everytihng related with technology and web development! Also, as a Graphic Designer, I really enjoy to draw, sketch and do content in 3d, like games or movies! (in fact I've worked in a few! B-) ) 
 
 ## Skills and Experience
