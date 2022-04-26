@@ -13,14 +13,14 @@ Hi 🙋 I'm Pablo from Tierra del Fuego, Argentina, and love to do everytihng re
 * 🏎 Node / Express || 🐘 PHP / Laravel
 * 🔋 mySQL, MongoDB
 * 🕷 Python / Django + BeautifulSoup
-* 💻 HTML, CSS, JS
+* 💻 HTML, CSS, JS, TypeScript!
 * Also Vue, Ionic :S, GraphQL, SOAP
 
 - 🔭 I’m currently working at Aerolab.co as a Full Stack Deveveloper
 - 🌱 I’m also learning about the Space and Rocket Ships! An awesome side project is coming!
 - 🔙 Flamboyant Paradise, Orchid Films, TVFuego, BitFilms, Encuadre, Ponup
 - ⛪️ I believe in God, above all the things, he guide my way and makes me so happy and grateful
-- ⚡ Fun fact: 🖼 I love to sketch and make illustrations like these [pablolizardo.com/illustrations](http://www.pablolizardo.com/illustrations)
+- ⚡ Fun fact: 🖼 I love to sketch and make illustrations like these [pablolizardo.ar/illustrations](http://www.pablolizardo.ar/illustrations)
 
 <!--
 **pablolizardo/pablolizardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> More info at  Personal site [pablolizardo.com](http://www.pablolizardo.com/illustrations)
+> More info at  Personal site [pablolizardo.ar](http://www.pablolizardo.ar/illustrations)
