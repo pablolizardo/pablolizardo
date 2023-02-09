@@ -11,12 +11,12 @@ Hi 🙋 I'm Pablo from Tierra del Fuego, Argentina, and love to do everytihng re
 ## Skills and Experience
 * ⚛ React + 📱 React Native + ▲ NextJS
 * 🏎 Node / Express || 🐘 PHP / Laravel
-* 🔋 mySQL, MongoDB
-* 🕷 Python / Django + BeautifulSoup
-* 💻 HTML, CSS, JS, TypeScript!
-* Also Vue, Ionic :S, GraphQL, SOAP
+* 🔋 mySQL, MongoDB, Prisma DB, SQLite
+* 🕷 Python, Cheerio, BeautifulSoup
+* 💻 HTML, CSS, JS, TypeScript
+* Also Vue, Ionic :S, GraphQL, SOAP, REST API
 
-- 🔭 I’m currently working at Aerolab.co as a Full Stack Deveveloper
+- 🔭 I’m currently working at Globant as a Software Engineer
 - 🌱 I’m also learning about the Space and Rocket Ships! An awesome side project is coming!
 - 🔙 Flamboyant Paradise, Orchid Films, TVFuego, BitFilms, Encuadre, Ponup
 - ⛪️ I believe in God, above all the things, he guide my way and makes me so happy and grateful
