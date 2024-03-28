@@ -1,7 +1,7 @@
 # Pablo Sebastian Lizardo
 
 - Dev at @globant 
-- My stuff in [pablolizardo.ar](https://pablolizardo.ar) and [casaa.com.ar](https://casaa.com.ar)
+- My stuff in [pablolizardo.dev](https://pablolizardo.dev) and [casaa.com.ar](https://casaa.com.ar)
 - Owner of [creemos.com.ar](https://creemos.com.ar) & [starbase.ar](https://starbase.ar) & [mitdf.com.ar](https://mitdf.com.ar) & [citalia.com.ar](https://citalia.com.ar) & [futbolvivo.com.ar](https://futbolvivo.com.ar)
 
  
