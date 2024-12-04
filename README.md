@@ -2,7 +2,7 @@
 
 - Dev at @globant 
 - My stuff in [pablolizardo.dev](https://pablolizardo.dev) and [casaa.com.ar](https://casaa.com.ar)
-- Owner of [creemos.com.ar](https://creemos.com.ar) & [starbase.ar](https://starbase.ar) & [mitdf.com.ar](https://mitdf.com.ar) & [citalia.com.ar](https://citalia.com.ar) & [futbolvivo.com.ar](https://futbolvivo.com.ar)
+- Owner of [creemos.com.ar](https://creemos.com.ar) & [mitdf.com.ar](https://mitdf.com.ar) & [futbolvivo.com.ar](https://futbolvivo.com.ar)
 
  
 
@@ -20,7 +20,7 @@ Hi 🙋 I'm Pablo from Tierra del Fuego, Argentina, and love to do everytihng re
 - 🌱 I’m also learning about the Space and Rocket Ships! An awesome side project is coming!
 - 🔙 Flamboyant Paradise, Orchid Films, TVFuego, BitFilms, Encuadre, Ponup, Aerolab
 - ⛪️ I believe in God, above all the things, he guide my way and makes me so happy and grateful
-- ⚡ Fun fact: 🖼 I love to sketch and make illustrations like these [pablolizardo.ar/illustrations](http://www.pablolizardo.ar/illustrations)
+- ⚡ Fun fact: 🖼 I love to sketch and make illustrations like these [pablolizardo.dev/illustrations](http://www.pablolizardo.dev/illustrations)
 
 <!--
 **pablolizardo/pablolizardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> More info at  Personal site [pablolizardo.ar](http://www.pablolizardo.ar/illustrations)
+> More info at  Personal site [pablolizardo.dev](http://www.pablolizardo.dev)
